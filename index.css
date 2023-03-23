@@ -1,0 +1,56 @@
+.box{
+    margin: auto;
+    padding: 5px;
+    position: relative;
+    width: 380px;
+    height: 480px;
+    background-color: #1877f2;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    line-height: 1.9em;
+    font-size: 50px;
+}
+.submit{
+    width: 200px;
+    height: 25px;
+    border-radius: .5em;
+    background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.bx1{
+
+    height: 50px;
+}
+.bx2{
+    height: 50px;
+}
+.inpux1{
+    width: 200px;
+    height: 25px;
+}
+.inpux2{
+    width: 200px;
+    height: 25px;
+}
+h5{
+    color: white;
+    text-decoration: underline;
+}
+.box6 h5{
+    color: white;
+    position: relative;
+    bottom: -110px;
+
+}
+
